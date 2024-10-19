@@ -2,6 +2,9 @@
 
 print("Exercise №3")
 
+
+print()
+
 n=int(input("Enter number: ")) # Введіть число
 if n == 0:
     print("Number is equal to zero") # Число дорівнює нулю
